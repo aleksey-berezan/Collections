@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{9213F55C-08C2-4F5C-9D59-759F2DDFD3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections.Tests", "Collections.Tests\Collections.Tests.csproj", "{15DFCA14-B6AC-490A-8347-B0CE9364AD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9213F55C-08C2-4F5C-9D59-759F2DDFD3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9213F55C-08C2-4F5C-9D59-759F2DDFD3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9213F55C-08C2-4F5C-9D59-759F2DDFD3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9213F55C-08C2-4F5C-9D59-759F2DDFD3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DFCA14-B6AC-490A-8347-B0CE9364AD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DFCA14-B6AC-490A-8347-B0CE9364AD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DFCA14-B6AC-490A-8347-B0CE9364AD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DFCA14-B6AC-490A-8347-B0CE9364AD62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
